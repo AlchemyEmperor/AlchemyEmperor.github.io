@@ -1,6 +1,7 @@
 ---
 title: ""
 collection: publications
+category: manuscripts
 venue: ''
 citation: 
 ---

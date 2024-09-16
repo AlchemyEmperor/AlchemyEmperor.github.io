@@ -8,7 +8,7 @@ citation:
 ---
 
 
-<img src="../images/journal.png" alt="Alt text" width="20" height="20"> DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features
+<img src="../images/journal.png" alt="Alt text" width="25" height="25"> DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features
 <br>
 Qinghua Lin, Wei Li, Xiangpan Zheng, Haoyi Fan and Zuoyong Li
 <br><br>

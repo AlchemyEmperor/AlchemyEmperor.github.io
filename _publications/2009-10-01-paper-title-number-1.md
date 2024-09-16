@@ -2,14 +2,13 @@
 title: " "
 collection: publications
 category: manuscripts
-date: 
 venue: ''
 paperurl: ''
 citation: 
 ---
 
 
-DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features
+<img src="../images/journal.png" alt="Alt text" width="30" height="30"> DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features
 <br>
 Qinghua Lin, Wei Li, Xiangpan Zheng, Haoyi Fan and Zuoyong Li
 <br>

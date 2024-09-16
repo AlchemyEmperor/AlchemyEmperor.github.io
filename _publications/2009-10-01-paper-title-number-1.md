@@ -7,4 +7,7 @@ venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0952197623010606'
 citation: 'Lin Q, Li W, Zheng X, et al. DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features[J]. Engineering Applications of Artificial Intelligence, 2023, 126: 106876.'
 ---
-[![GitHub](../images/pdf.png)](https://www.sciencedirect.com/science/article/pii/S0952197623010606)
+
+<a href="https://www.sciencedirect.com/science/article/pii/S0952197623010606">
+  <img src="../images/pdf.png" alt="GitHub" width="40" height="40">
+</a>

@@ -9,5 +9,5 @@ citation: 'Lin Q, Li W, Zheng X, et al. DeepCrackAT: An effective crack segmenta
 ---
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0952197623010606">
-  <img src="../images/pdf.png" alt="GitHub" width="50" height="40">
+  <img src="../images/pdf.png" alt="PDF" width="50" height="40">
 </a>

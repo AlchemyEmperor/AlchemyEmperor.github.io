@@ -1,10 +1,15 @@
 ---
-title: "Leukocyte classification using relative-relationship-guided contrastive learning"
-collection: publications
+title: " "
 category: manuscripts
-date: 2024-09-13
-venue: 'Expert Systems with Applications'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0957417424022577?via%3Dihub'
-citation: 'Li Z, Lin Q, Wu J, et al. Leukocyte classification using relative-relationship-guided contrastive learning[J]. Expert Systems with Applications, 2024: 125390.'
+venue:
+citation:
 ---
 
+<img src="../images/journal.png" alt="Alt text" width="25" height="25"> Zuoyong Li, **Qinghua Lin**, Jiawei Wu, Taotao Lai and David Zhang. Leukocyte classification using relative-relationship-guided contrastive learning. Expert Systems with Applications. **ESWA**, 2024.
+<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0957417424022577" target="_blank">
+  <img src="../images/pdf.png" alt="PDF" width="50" height="40" style="display: inline-block; margin-right: 10px;"></a>
+<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:CqfUPtImc_gJ:scholar.google.com/&output=citation&scisdr=ClGd53jVEKDBh1xe_yA:AFWwaeYAAAAAZulY5yCVGjRYuv3sITuHoc6W23o&scisig=AFWwaeYAAAAAZulY50DIOH0-jIDXqhx-ClPleig&scisf=4&ct=citation&cd=-1&hl=zh-CN" target="_blank">
+  <img src="../images/cite.png" alt="Cite" width="50" height="40" style="display: inline-block; margin-right: 10px;"></a>
+<a href="https://github.com/AlchemyEmperor/ReCLR" target="_blank">
+  <img src="../images/code.png" alt="Code" width="50" height="40" style="display: inline-block; margin-right: 10px;"></a>

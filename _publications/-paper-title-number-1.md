@@ -1,11 +1,9 @@
-<div style="display: none;">
 ---
 title: " "
 category: manuscripts
 venue:
 citation:
 ---
-</div>
 
 <img src="../images/journal.png" alt="Alt text" width="25" height="25"> **Qinghua Lin**, Wei Li, Xiangpan Zheng, Haoyi Fan and Zuoyong Li. DeepCrackAT: An effective crack segmentation framework based on learning multi-scale crack features. **EAAI**, 2023.
 <br>

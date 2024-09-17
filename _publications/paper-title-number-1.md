@@ -1,5 +1,5 @@
 ---
-title:
+title: " "
 collection: publications
 category: manuscripts
 venue:

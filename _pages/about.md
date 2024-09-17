@@ -23,6 +23,17 @@ News
   <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
   <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
   <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
+    <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
+    <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
+    <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
+    <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
+    <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
+    <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
+      <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
+    <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
+    <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
+    <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
+    <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
 </div>
 <br>
 

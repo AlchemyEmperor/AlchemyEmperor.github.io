@@ -16,7 +16,6 @@ News
 =
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px; line-height: 1.5;">
     <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span>.</li>
-    <a href="[https://example.com](https://github.com/TorchSSL/TorchSSL/tree/main)" target="_blank">here</a>
 </div>
 <br>
 

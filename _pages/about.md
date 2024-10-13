@@ -12,23 +12,6 @@ About Me
 I am currently pursuing a master’s degree at the School of Computer Science and Mathematics, Fujian University of Technology. I received my bachelor's degree in Software Engineering from Southwest Minzu University in 2021. My research focuses on applying deep learning to image and video processing, with particular interests in medical image tasks, industrial anomaly detection, and accident recognition.
 <br>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Like Button</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div class="like-button">
-        <span class="heart" id="heart-btn"></span>
-        <p id="like-text">0 Likes</p>
-    </div>
-
-    <script src="script.js"></script>
-</body>
-</html>
-
 News
 =
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px; line-height: 1.5;">

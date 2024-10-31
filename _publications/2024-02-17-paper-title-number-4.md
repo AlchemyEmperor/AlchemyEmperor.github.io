@@ -5,7 +5,7 @@ venue:
 citation:
 ---
 
-<img src="../images/journal.png" alt="Alt text" width="25" height="25"> Zuoyong Li, **Qinghua Lin**, Haoyi Fan*, Tiesong Zhao and David Zhang. SIAVC: Semi-Supervised Framework for Industrial Accident Video Classification. **IEEE T CSVT**, 2024.
+<img src="../images/journal.png" alt="Alt text" width="25" height="25"> Zuoyong Li, **Qinghua Lin**, Haoyi Fan, Tiesong Zhao and David Zhang. SIAVC: Semi-Supervised Framework for Industrial Accident Video Classification. **IEEE T CSVT**, 2024.
 <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0957417424022577" target="_blank">
   <img src="../images/pdf.png" alt="PDF" width="50" height="40" style="display: inline-block; margin-right: 10px;"></a>
@@ -14,6 +14,8 @@ citation:
 <a href="https://github.com/AlchemyEmperor/ReCLR" target="_blank">
   <img src="../images/code.png" alt="Code" width="50" height="40" style="display: inline-block; margin-right: 10px;"></a>
 <br><br>
+
+
 <img src="../images/journal.png" alt="Alt text" width="25" height="25"> Zuoyong Li, **Qinghua Lin**, Jiawei Wu, Taotao Lai* and David Zhang. Leukocyte classification using relative-relationship-guided contrastive learning. **ESWA**, 2024.
 <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0957417424022577" target="_blank">
@@ -23,6 +25,8 @@ citation:
 <a href="https://github.com/AlchemyEmperor/ReCLR" target="_blank">
   <img src="../images/code.png" alt="Code" width="50" height="40" style="display: inline-block; margin-right: 10px;"></a>
 <br><br>
+
+
 <img src="../images/journal.png" alt="Alt text" width="25" height="25"> **Qinghua Lin**, Zuoyong Li*, Kun Zeng, Haoyi Fan, Wei Li and Xiaoguang Zhou. FireMatch: A semi-supervised video fire detection network based on consistency and distribution alignment. **ESWA**, 2024.
 <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0957417424002744" target="_blank">

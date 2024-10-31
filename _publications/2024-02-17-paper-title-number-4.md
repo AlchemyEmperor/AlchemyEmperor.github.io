@@ -5,7 +5,7 @@ venue:
 citation:
 ---
 
-<img src="../images/journal.png" alt="Alt text" width="25" height="25"> Zuoyong Li, **Qinghua Lin**, Haoyi Fan*, Tiesong Zhao and David Zhang. SIAVC: Semi-Supervised Framework for Industrial Accident Video Classification. **IEEE T CSVT**, 2024.
+<img src="../images/journal.png" alt="Alt text" width="25" height="25"> Zuoyong Li, **Qinghua Lin**, Haoyi Fan, Tiesong Zhao and David Zhang. SIAVC: Semi-Supervised Framework for Industrial Accident Video Classification. **IEEE T CSVT**, 2024.
 <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0957417424022577" target="_blank">
   <img src="../images/pdf.png" alt="PDF" width="50" height="40" style="display: inline-block; margin-right: 10px;"></a>

@@ -15,12 +15,11 @@ I am currently pursuing a master’s degree at the School of Computer Science an
 News
 =
 <div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px; line-height: 1.5;">
+      <li>13-Sep-2024, <span style="color: red;">SIAVC</span> is accepted by <span style="color: red;">IEEE Transactions on Circuits and Systems for Video Technology</span> (IF: 8.1, JCR Q1).</li>
     <li>13-Sep-2024, <span style="color: red;">ReCLR</span> is accepted by <span style="color: red;">Expert Systems with Applications</span> (IF: 7.5, JCR Q1).</li>
 </div>
 <br>
-<div style="height: 200px; width: 100%; overflow-y: scroll; border: 1px solid transparent; background-color: #f0f0f0; padding: 10px;font-size: 16px; line-height: 1.5;">
-    <li>13-Sep-2024, <span style="color: red;">SIAVC</span> is accepted by <span style="color: red;">IEEE Transactions on Circuits and Systems for Video Technology</span> (IF: 8.1, JCR Q1).</li>
-</div>
+
 
 My Journey
 =
